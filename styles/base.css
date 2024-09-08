@@ -4,8 +4,17 @@ body {
 }
 
 .ContentTable {
-  background-color: #333333;
-  /* f = 15 | 15 - 3 = 12 | b = 12*/
-
-  color: #bbbbbb;
+  background-color: #555555;
+  color: #999999;
 }
+
+.log {
+  background-color: #222222;
+  color: #ffffff;
+}
+
+#ContentTable {
+  background-color: #225522;
+  color: #ffffff;
+}
+

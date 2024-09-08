@@ -5,4 +5,7 @@ body {
 
 .ContentTable {
   background-color: "#333333";
+  /* f = 15 | 15 - 3 = 12 | b = 12*/
+
+  color: "#bbbbbb";
 }

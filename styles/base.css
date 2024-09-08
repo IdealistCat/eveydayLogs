@@ -1,6 +1,6 @@
 body {
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #000055;
+  color: #ffffff;
 }
 
 .ContentTable {
@@ -10,16 +10,13 @@ body {
 
 .log {
   background-color: #222222;
-  color: #ffffff;
 }
 
 #ContentTable {
   background-color: #225522;
-  color: #ffffff;
 }
 
 #version_text {
   background-color: #225522;
-  color: #ffffff;
 }
 

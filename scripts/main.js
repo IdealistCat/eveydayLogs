@@ -1,4 +1,4 @@
 import { SITE_VERSION } from "./GLOBAL.js"
 
 var htmlSiteVer = document.getElementById('version_text');
-htmlSiteVer.innerHTML = SITE_VERSION;
+htmlSiteVer.innerTEXT = SITE_VERSION;

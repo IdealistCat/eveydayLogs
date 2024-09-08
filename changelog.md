@@ -9,7 +9,7 @@
 
 # Changelog
 
-## v0.0.2a - 9/?/2024
+## v0.0.2a - 9/8/2024
   - Added Issue Templates [!]
   - Added Site Version Display to top of site [!]
   - Fixed Table of Contents CSS [!]
